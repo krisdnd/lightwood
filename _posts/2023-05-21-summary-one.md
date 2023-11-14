@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Arrival at Hrakamar and the dwarven ruins"
+title: "Arrival at Hrakamar and Frank’s demise in the dwarven ruins"
 date: 2023-05-21 12:00:00 +1030
-categories: lightwood
+categories: summaries
 tags: smoke
 ---
 ### Previously on T-TOA…
