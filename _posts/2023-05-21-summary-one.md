@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arrival at Hrakamar and Frank’s demise in the dwarven ruins"
+title: "Arrival at Hrakamar and Franks demise in the dwarven ruins"
 date: 2023-05-21 12:00:00 +1030
 categories: summaries
 tags: smoke
