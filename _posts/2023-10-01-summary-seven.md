@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Previously on T-TOA…"
+title: "To Omu, the forbidden city and the first shrine of Kubazan"
 date: 2023-10-01 12:00:00 +1030
-categories: lightwood
-tags: smoke hrakamar musharib orb-of-direction map frank fire-newt hellhound gremlin
+categories: summaries
+tags: dark-crowo lyra trent guardian tundra leopold crackers musharib hank filth-bucket omu acererak kubazan shagambi moa orvex froghemoth puzzle-key
 ---
 ### Previously on T-TOA…
 The party rewind back to when they were on the shores of the pirate cove, just after being freed from the grasps of The Dark CroWo. They open the scroll sealed with the familiar sigil of the Dark CroWo and see it is a letter from Lyra, the Captain of The Dark CroWo. It appears Lrya is thankful for the entertainment they provided. The party reflect that without the persuasive skills of their team, they might never have landed on the shores with their gear.
@@ -12,7 +12,6 @@ The party continue down the road through the city for a few minutes when they en
 The party come to a shrine to the west of the main road – it was a square structure with a large pond in front of it. The pond contained a statue of a frog in the middle. As the party stepped off the main road, Hank stopped and reveals they can’t go in, something is stopping them. Hank mutters a word or a sound, not quite understood by the other party members. In a folly of disorganisation, Guardian proceeds to circle the pond, whom Tundra decides to follow, who Leopold is compelled to follow, whom Trent follows, when without warning, a Froghemoth leaps out of the pond facing the party. During battle with the Froghemoth, Guardian and Trent are swallowed whole by it but successfully escape, although to them the shrine appeared to have a green veil covering it. The Froghemoth was defeated, and the party progressed to exploring the shrine. They found an inscription Trent reads as ‘Kubazan urges us to tread without fear and to give back as much as we take.’ The party manage the puzzle that is the shrine and successfully retrieve the stone cube puzzle piece that Guardian stores safely in their bag of holding.
 What a ribetting session! Next time, we rejoin our heroes on their quest to retrieve the 9 keys. What will they encounter in the other shrines? How will they work out their puzzles? When will Filth Bucket resurface? Why can’t Hank enter the Shrine? Whatever comes, I’m sure we are in for a toadally awesome venture.
 
-## Images
 {% for image in site.static_files %}
 {% if image.path contains 'images/2023-10-01' %}
 <img src="{{image.path}}" alt="image" />

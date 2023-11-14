@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Previously on T-TOA…"
+title: "Trent, Tundra and Leopold join the adventure to Ubtau"
 date: 2023-09-17 12:00:00 +1030
-categories: lightwood
-tags: smoke hrakamar musharib orb-of-direction map frank fire-newt hellhound gremlin
+categories: summaries
+tags: dark-crowo aurora curly hairless-tenday kert marrak durin harold henry charter guardian halruaa hrakama musharib dumathoin shi tundra leopold lightwood-company otamar ubtau dragon valindra omu acererak soulmonger dracolich rasni chult szass-fam puzzle-key undermountain
 ---
 ### Previously on T-TOA…
 At the shores of the pirate cove, the party watched The Dark CroWo disappear on the horizon. As they did, they saw a small boat rowing to shore. A male pirate figure pulled the small boat to shore, offloaded chests and handed a scroll to Aurora before boarding the boat and rowing back towards The Dark CroWo. Meanwhile characters rescued include: Curly (halfling druid), Hairless Tenday (Human), Kert (half-orc mage scholar), Marrak (covered in scars), Durin (dwarven berserker) and a Centaur. Durin held out a scroll from Harold, Henry’s surviving husband. It was the charter. Kert explained they were looking for the party at the cove when it was pirated by the Dark CroWo. Kert gave further details – Harold has taken the 7 kids somewhere safe. The kids are too young to take over the company, so Harold is passing this assignment over to the party. The party read the scroll of the charter and Guardian stored it in their bag of holding. Suddenly, in the distance out to sea, a ship lifts out of the water, it turns and circles before flying off into the dawn. It’s not like the air balloon ships some have seen before at Halruaa – it moves far too fast – so the party are stunned.
@@ -12,7 +12,6 @@ With newfound inspiration, some of the party members head to Otamar on a retriev
 In menacing conversation, Valindra tells that Omu is a ruined city and that He will reign hellfire. Hank advises that the party would not want her to hold the power He holds because of the depths of darkness she will bring. Hank addresses Valindra saying they will not allow them to take the power from him to which Valindra responds “Oh, I would leave it in the hands of a Uli-” but is cut off by Hank. In frustration, Valinda pulls out a book with the cult symbol and launches into a belittling education session. She imparts that the lich is Acererak. He has a soulmonger who draws in souls to presumably revive a murderous form of a God. Normally that’s what one would do, but one could also use energy from the soulmonger and biomass to prepare a Dracolich shell and transfer essence. At Valinda’s size, a snap of the fingers could kill the party before her. But with the body of a very large dragon.. Valinda says to go and uselessly seek the 9 keys of the Gods in Omu, mentioning that these give access to the Undermountain. She continues that Acererak has done this multiple times in other planes. Szass Fam won’t be happy. But Rasni who is in the Feign of the Night Serpent, is the one to look out for – he was a famous knight in Chult, something went wrong and he went from good to evil which is why Omu is the way it is now. Acererak made Rasni into a lich.
 Wisely avoiding further confrontation with Valindra, the party head back to camp bearing the load of Valinda’s words. Hank comes to Guardian who now understands that Valindra wants the power of the book. Hank reiterates they believe they can stop the emergence but won’t be able to finish him off. Hank shows Guardian a vision of great destruction, spheres, each containing worlds, Hank’s people. They say they share this as a sign of trust and expect them to be trusted back in future. Meanwhile, Caitlin shares dragon plates with Tundra to make armour. Sheesh, this session got serious! Serious battles and serious conversations. What ever will our heroes do with all this serious information? Let’s find out!
 
-## Images
 {% for image in site.static_files %}
 {% if image.path contains 'images/2023-09-17' %}
 <img src="{{image.path}}" alt="image" />
