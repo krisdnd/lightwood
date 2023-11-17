@@ -3,7 +3,7 @@ layout: post
 title: "To Omu, the forbidden city and the first shrine of Kubazan"
 date: 2023-10-01 12:00:00 +1030
 categories: summaries
-tags: dark-crowo lyra trent guardian tundra leopold crackers musharib hank filth-bucket omu acererak kubazan shagambi moa orvex froghemoth puzzle-key
+tags: lyra trent guardian tundra leopold crackers musharib hank omu acererak kubazan shagambi moa orvex froghemoth
 ---
 ### Previously on T-TOA…
 The party rewind back to when they were on the shores of the pirate cove, just after being freed from the grasps of The Dark CroWo. They open the scroll sealed with the familiar sigil of the Dark CroWo and see it is a letter from Lyra, the Captain of The Dark CroWo. It appears Lrya is thankful for the entertainment they provided. The party reflect that without the persuasive skills of their team, they might never have landed on the shores with their gear.
