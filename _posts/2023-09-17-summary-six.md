@@ -6,7 +6,6 @@ categories: summaries
 tags: aurora curly kert marrak durin harold henry charter guardian halruaa hrakama musharib dumathoin shi tundra leopold otamar ubtau dragon valindra omu acererak soulmonger dracolich rasni chult undermountain dumathoin wizard key
 ---
 ### Previously on T-TOA…
-Dark-crowo aurora curly hairless-tenday kert marrak durin harold henry charter guardian halruaa hrakama musharib dumathoin shi tundra leopold lightwood-company otamar ubtau dragon valindra omu acererak soulmonger dracolich RasNsi chult szass-fam puzzle-key undermountain dumathoin red-wizard
 At the shores of the pirate cove, the party watched The Dark CroWo disappear on the horizon. As they did, they saw a small boat rowing to shore. A male pirate figure pulled the small boat to shore, offloaded chests and handed a scroll to Aurora before boarding the boat and rowing back towards The Dark CroWo.
 
 Meanwhile characters rescued include: Curly (halfling druid), Hairless Tenday (Human), Kert (half-orc mage scholar), Marrak (covered in scars), Durin (dwarven berserker) and a Centaur. Durin held out a scroll from Harold, Henry’s surviving husband. It was the charter. Kert explained they were looking for the party at the cove when it was pirated by the Dark CroWo. Kert gave further details – Harold has taken the 7 kids somewhere safe. The kids are too young to take over the company, so Harold is passing this assignment over to the party. The party read the scroll of the charter and Guardian stored it in their bag of holding.
