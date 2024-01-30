@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Toll of the Dead"
+title: "Cutscence: Toll of the Dead"
 date: 2024-01-13 12:00:00 +1030
 categories: cutscence
 tags: Cutscence
+author: Terry
 ---
-### Cutscence
 A magical hum emanated from the runes in the Lightwood camp, and a blue shimmering portal split the air with a thrumming sound. Trent, Fred, Neera, Smoke and others turned to see strangers stumble through, dressed not just for the warm climate, but to reveal as much flesh as tantalisingly possible.
 
 A moment later Hank strode through, its familiar form bent low to clear the top of the portal. Those watching on felt a familiar twisting at the base of their neck as deja-vu accompanied their eyes settling on Hank, before they moved forward to welcome what was clearly more lost sheep into their fold.
