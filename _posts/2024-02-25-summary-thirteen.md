@@ -32,5 +32,6 @@ They continued exploring towards the West and came face to face with a mega skul
 
 The doomed child became overwhelmed with fear and Izzurba entered the tomb and attacked the small skull. The skull began to reform, and the party members exited, headed North. They found another room with a tomb and 3 boxes, each large enough to fit in and containing an immovable key. The party deliberated on this puzzle and ended up having Aurora, Tundra and Timothy climb into the boxes and turn the keys at the same time. Aurora and Tundra took damage from setting off a trap, but the tomb became transparent revealing a monkey with a mace inside. Although it came to life when the tomb was broken by Tundra, the heroes defeated the mace-wielding monkey.
 
-What a funhouse that turned out to be! Where will the dungeons lead this session? Will our heroes find all the skeleton keys? And who or what will they encounter in the remainder of this undiscovered tomb?\
+What a funhouse that turned out to be! Where will the dungeons lead this session? Will our heroes find all the skeleton keys? And who or what will they encounter in the remainder of this undiscovered tomb?
+
 {% include gallery.html folder="images/2024-02-25" %}
