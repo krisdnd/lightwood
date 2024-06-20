@@ -11,4 +11,4 @@ One of the Shi and brother to Tundra, who he doesn’t seem to let out of sight.
 Appearance: Large size, snow-camo fur, blue eyes, around 20 years old
 
 
-{% include gallery.html folder="images/leopold" %}
+{% include gallery.html folder="images/Characters/Leopold" %}

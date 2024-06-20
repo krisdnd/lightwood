@@ -10,4 +10,4 @@ A regular member of the Lightwood Company. Not quite an elf, not quite a human, 
 
 Appearance: Medium size, red hair, light and freckled skin, blue eyes, 50 years old
 
-{% include gallery.html folder="images/fred" %}
+{% include gallery.html folder="images/Characters/Fred" %}

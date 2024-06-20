@@ -11,4 +11,4 @@ One of the Shi and sister to Leopold. Tundra is athletic and burly for her size,
 Appearance: Medium size, snow-camo fur, green eyes, around 20 years old
 
 
-{% include gallery.html folder="images/tundra" %}
+{% include gallery.html folder="images/Characters/Tundra" %}

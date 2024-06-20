@@ -12,4 +12,4 @@ Appearance: Medium size, black hair, tanned skin, gold eyes, 35 years old
 
 
 
-{% include gallery.html folder="images/nera" %}
+{% include gallery.html folder="images/Characters/Nera" %}
