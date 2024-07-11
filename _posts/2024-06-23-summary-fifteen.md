@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Hithers and the Flirtatious Golden Skull"
+title: "Withers and the Flirtatious Golden Skull"
 date: 2024-06-23 12:00:00 +1030
 categories: summaries
 tags: guardian bork hank caitlin lucy moa aurora wongo tundra skeleton key izzurba bolgar swarm necromancer spellbook locks, skull amulet hithers khomara blackfire mould froghemoth candle kubazan obolaka god eyeballs
 ---
 ### Previously on T-TOA…
 
-Our intrepid band of adventurers stirred from their long rest, the echoes of dreams and whispered secrets still lingering. Guardian, ever practical, secured their bag of holding to Bork’s sturdy frame before departing to aid Hank. Caitlin, however, experienced an otherworldly visitation in the night—an encounter with Lucy.
+Our intrepid band of adventurers stirred from their long rest, the echoes of dreams and whispered secrets still lingering. Guardian, ever practical, secured their bag of holding to Bork’s sturdy frame before departing to aid Hank. Caitlin, however, experienced an otherworldly visitation in the night—an encounter with Luci.
 
 Returning through the mystical portal to the tomb, the party confronted a black wooden door adorned with a face-shaped knocker. Moa, the wise guide, cautioned Aurora that this threshold held perilous secrets. Meanwhile, Wongo whispered to Tundra, urging destruction. Tundra rapped on the door, and its eyes flickered to life. “You may enter,” the face intoned, then extinguished its gaze.
 
 Beyond the door lay a chamber—a desk, a skeleton key, and a mysterious humanoid. The enigmatic figure revealed there were five locks, each a gateway to certain doom, before vanishing despite Izzurba’s counterspell. Suddenly hand swarms engaged the heroes in a chaotic battle. During battle, the undead humanoid reappeared behind Izzurba for a wizard battle, but was defeated.
 
-Izzurba, ever curious, rifled through the necromancer’s belongings; a spellbook and a skull amulet. On the table; mouldy journals, an arcane rock and a necromancy spellbook that bore the cryptic words “Khomara Blackfire” on the back. A journal entry revealed the humanoid’s identity: Hithers. Tundra took the skeleton key labelled II.
+Izzurba, ever curious, rifled through the necromancer’s belongings; a spellbook and a skull amulet. On the table; mouldy journals, an arcane rock and a necromancy spellbook that bore the cryptic words “Khomara Blackfire” on the back. A journal entry revealed the humanoid’s identity: Withers. Tundra took the skeleton key labelled II.
 
 Carrying on, the party descended a spiral staircase until they came across purple mould near a door on level 3. Inside, they discovered a lever-controlled room spun like a malevolent trap after grappling with a reanimated statue. Through a crawlspace, Timothy found a room with a gold skull that Bolgar and Caitlin explored. Caitlin picked up the skull and it began an array of bad pickup lines. Undeterred by the skull’s flirtatious banter, Caitlin ventured deeper in the room, uncovering a Froghemoth statue and a series of ancient murals depicting offerings to the creature.
 
