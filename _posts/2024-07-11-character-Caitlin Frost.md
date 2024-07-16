@@ -15,5 +15,8 @@ Members of Lightwood found her walking alone at night. Caitlin simply said, "The
 Lightwood took her in, and provided her with food, a place to sleep, and plenty of opportunities for violence.
 
 
-Appearance:
+### Appearance
 Caitlin is a wood elf of 29 years, with mid-length white hair, a pale complexion with hints of green and brown, and purple eyes. Her face is usually placid, but very expressive when appropriate. She wears a simple green dress, tied around her hips to assist with easy movement. She's the kind of monk who doesn't wear shoes.
+
+### Possessed by
+Unkh (flail snail), neutral alignment, one of the nine trickster gods of Omu in Chult

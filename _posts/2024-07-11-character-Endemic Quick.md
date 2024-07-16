@@ -7,8 +7,12 @@ tags: endemic
 ---
 ### Background
 Lightwood Company, Regular (Joined 1493)
+
 DOB Unknown
+
 (they/them)
+
+
 
 Endemic Quick, named for their habit of starting rumours and jokes amongst the company and their lightning fast wit, is a brain kept alive in a majika-mekanikal hybrid device. Henry found their brain floating in a jar of brine, locked in a cabinet in a biomancers laboratory he was dismantling in the earliest years of the company.
 
