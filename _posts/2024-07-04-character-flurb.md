@@ -6,10 +6,12 @@ categories: characters
 tags: flurb
 ---
 ### Background
-Dread Pirate Captain Flurb
 The Gentlethem’s Scissors (Galleon, 40 Ton Destroyer)
+
 DOB Unknown
+
 (they/them)
+
 
 The tiefling known as Flurb has known to make port at Blackrock on occasion, although they have not docked at the station in several years. Host of hedonistic orgies of sexual and consumable overindulgence, they claim to have bedded half of the Dread Pirate Captains known to ply local space lanes.
 

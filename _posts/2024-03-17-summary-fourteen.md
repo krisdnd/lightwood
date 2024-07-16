@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test of the dead and the paladin chain"
+title: "Test of The Dead and The Paladin Chain"
 date: 2024-03-17 12:00:00 +1030
 categories: summaries
 tags: monkey guardian telepathy zombie tundra bulgar papazotl moa aurora obolaka aongo trent amulet bottle acererack ghost pentagram izzurba timothy leopold paladin moa skeleton key dwarves
