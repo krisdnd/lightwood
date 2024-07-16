@@ -20,3 +20,6 @@ Caitlin is a wood elf of 29 years, with mid-length white hair, a pale complexion
 
 ### Possessed by
 Unkh (flail snail), neutral alignment, one of the nine trickster gods of Omu in Chult
+
+
+{% include gallery.html folder="images/Characters/Caitlin" %}
