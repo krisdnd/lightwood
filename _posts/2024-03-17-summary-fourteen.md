@@ -3,7 +3,7 @@ layout: post
 title: "Test of The Dead and The Paladin Chain"
 date: 2024-03-17 12:00:00 +1030
 categories: summaries
-tags: monkey guardian telepathy zombie tundra bulgar papazotl moa aurora obolaka aongo trent amulet bottle acererack ghost pentagram izzurba timothy leopold paladin moa skeleton key dwarves
+tags: monkey guardian telepathy zombie tundra bolgar papazotl moa aurora obolaka aongo trent amulet bottle acererak ghost pentagram izzurba timothy leopold paladin moa skeleton key dwarves
 ---
 ### Previously on T-TOA…
 
@@ -15,7 +15,7 @@ As the party approached a massive Southern door, the air reeked of rotting flesh
 
 Guardian dispatched the last zombie and the door ascended, revealing another tomb. Bronze statues of Chultan warriors flanked a shield, while cauldrons and an Iblis/Papazotl statue filled the room. Aurora (Moa), Bolgar (Obo-laka) and Tundra (Wongo) took their positions in the room and Trent read the shield’s inscription: “Bow before no one.” Izzurba bowed to the faceless statue, causing the cauldron to boil momentarily. Nothing else happened until the party spotted the sarcophagus in the centre, seemingly holding treasure. Filth Bucket donned the golden torque, enchanted by its allure. Trent’s detect magic revealed an amulet’s magical properties. Guardian took the amulet and Papazotl’s shadows converged on the walls. Resisting the deity’s influence, Guardian wore the amulet and with the help of Papazotl, revealed a secret door.
 
-With determination, Guardian opened the door revealing a tunnel. Our heroes ventured through, discovering an alcove with a dusty bottle resting on a table. Trent heard a voice emanating from the bottle and expressed their dislike for it. The party then engaged in a conversation with the mysterious voice through Trent. Just as Trent contemplated acting as the bottled voice asked, it materialised before him, revealing that it was a test. The spirit offered Trent a deal: take 3 witches (lieutenants) alongside Acererack, thus sparing the party from dealing with them directly. Trent informs the party that the ghost will aid their cause.
+With determination, Guardian opened the door revealing a tunnel. Our heroes ventured through, discovering an alcove with a dusty bottle resting on a table. Trent heard a voice emanating from the bottle and expressed their dislike for it. The party then engaged in a conversation with the mysterious voice through Trent. Just as Trent contemplated acting as the bottled voice asked, it materialised before him, revealing that it was a test. The spirit offered Trent a deal: take 3 witches (lieutenants) alongside Acererak, thus sparing the party from dealing with them directly. Trent informs the party that the ghost will aid their cause.
 
 Guardian’s keen perception detected another secret door at the corridor’s end. Beyond it lay a room saturated with the stench of salt and sulfur. Obo-laka advised Bolgar to add salt to the pentagram in the room. Wongo, ever impulsive, suggested wrecking the pentagram to see what unfolds. Izzurba recognised the ritual – a trap for a demon at the pentagram’s centre. Tundra moved to attack the pentagram, but Izzurba and Bolgar intervene, preventing a potentially calamitous outcome. Aurora sensed demonic energy pacing nearby. The party further investigated the room discovering a wine vat from a small drain grate in the room – Izzurba makes a stopper for it lasting an hour so it didn’t rise and disturb the pentagram. Aurora felt flares and hate, sharing this with the party.
 

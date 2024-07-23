@@ -3,7 +3,7 @@ layout: post
 title: "Meet Izzurba, a valuable ally against the shrine of Shagambi"
 date: 2023-10-15 12:00:00 +1030
 categories: summaries
-tags: Izzurba shagambi shrine rasni guardian froghemoth jaculi kubazan tundra key
+tags: Izzurba shagambi shrine rasnsi guardian froghemoth jaculi kubazan tundra key
 ---
 ### Previously on T-TOA…
 At the Kubazan shrine, the party were rejoined by Crackers who was accompanied by Aurora, Bork and a new face, Izzurba. Aurora and Izzurba shared they saw graffiti on the way that said:

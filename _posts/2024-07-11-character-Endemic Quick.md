@@ -14,6 +14,7 @@ DOB Unknown
 
 
 
+
 Endemic Quick, named for their habit of starting rumours and jokes amongst the company and their lightning fast wit, is a brain kept alive in a majika-mekanikal hybrid device. Henry found their brain floating in a jar of brine, locked in a cabinet in a biomancers laboratory he was dismantling in the earliest years of the company.
 
 The biomancers notes lead Henry to delicately (or rather, as delicately as Henry could) remove the brain from the brine and place it in the device, which connected to the brain with thin copper tubing and brought it back to a rosier glow. The notes described the kidnapping and murder of a multitude of individuals, leaving the brains origins unclear, but Henry studied the notes and continued to feed the equipment it’s doses of salts, powdered bone, and crushed watersblood root to keep the brain alive for many years before it began to show signs of actual life.

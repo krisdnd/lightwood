@@ -3,7 +3,7 @@ layout: post
 title: "Trent, Tundra and Leopold join the adventure to Ubtau"
 date: 2023-09-17 12:00:00 +1030
 categories: summaries
-tags: aurora curly kert marrak durin harold henry charter guardian halruaa hrakama musharib dumathoin shi tundra leopold otamar ubtau dragon valindra omu acererak soulmonger dracolich rasni chult undermountain dumathoin wizard key
+tags: aurora curly kert marrak durin harold henry charter guardian halruaa hrakamar musharib dumathoin shi tundra leopold otamar ubtau dragon valindra omu acererak soulmonger dracolich rasnsi chult undermountain dumathoin wizard key
 ---
 ### Previously on T-TOA…
 At the shores of the pirate cove, the party watched The Dark CroWo disappear on the horizon. As they did, they saw a small boat rowing to shore. A male pirate figure pulled the small boat to shore, offloaded chests and handed a scroll to Aurora before boarding the boat and rowing back towards The Dark CroWo.

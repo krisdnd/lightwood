@@ -3,7 +3,7 @@ layout: post
 title: "Entering the Fane of the Night Serpent and through to the hall with the golden snake statue"
 date: 2023-12-10 12:00:00 +1030
 categories: summaries
-tags: serpent hydra yuanti izzurba tundra leopold Caitlin guardian portal hank statue cathedral dendar
+tags: serpent hydra yuanti izzurba tundra leopold caitlin guardian portal hank statue cathedral dendar
 ---
 ### Previously on T-TOA…
 We rejoined our heroes as the hydra fell to its death, one of the heads smashing into a boat. In the flurry, some of the party members were carried away by the water heading North, deeper into the cavern. Izzurba chased after them being the only one in their element.

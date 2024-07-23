@@ -16,6 +16,7 @@ DOB Unknown, deceased 1496 DR
 
 
 
+
 Musharib was a guide met by the Lightwood Company at Port Nyanzaru, on the northern tip of Chult. An albino dwarf, he offered to guide them through Chult on their quest to investigate the death cult, free of charge if they would help him recover his peoples ancient home of Hrakhamar.
 
 Flanked by a pair of pack stegadons, Grumbles and Stuffy, Musharib lead the initial foray by the company through the jungle before they were successful in eradicating the fire newts that had displaced his people. Revealing he had a deal of hidden ability as an accomplished artificer, Musharib offered to reward the company members with an additional magical boon if they were able to clear out the kobolds and red dragon infesting the Wymheart mine, while he gathered nearby relatives that were living among the jungle.
@@ -27,6 +28,7 @@ The company rescued Musharib from the Dark CroWo by right of combat, soon discov
 When he destroyed the Heart of Ubtao over Omu and stole the souls of those nearby, Acererak was prevented from stealing Musharib’s soul by the intervention of the dwarven ascendant Dumathoin, whom had a personal interest in Musharib and had inhabited his body as an avatar during the Time of Troubles. In a rage, Acererak struck Musharib a mortal wound with thanergic energy, leading the dwarf to part ways with the company in order to return to Hrakhamar to pass in peace among his ancestral home.
 
 The Lightwood Company sadly bid Musharib goodbye, and he lead Grumbles and Stuffy back through the jungle. To the best of the companies knowledge he reached Hrakhamar safely, and passed as per his wishes in 1479 DR.
+
 
 
 

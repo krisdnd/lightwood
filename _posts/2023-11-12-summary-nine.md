@@ -3,7 +3,7 @@ layout: post
 title: "Portal to camp with Octopus and Bulgar, and the encounter with Hydra in the under-palace"
 date: 2023-11-12 12:00:00 +1030
 categories: summaries
-tags: izzurba trent hank camp portal octopus tundra bulgar crowo zombies shrine eagle guardian moa slime pedestal monkey key palace omu unkh snail boat bell hydra leopold Caitlin filth-bucket 
+tags: izzurba trent hank camp portal octopus tundra bolgar crowo zombies shrine eagle guardian moa slime pedestal monkey key palace omu unkh snail boat bell hydra leopold caitlin filth-bucket 
 ---
 ### Previously on T-TOA…
 Additional Note: RasNsi (Rar-Ni) - A blue triangle means RasNsi.
@@ -18,13 +18,13 @@ The party came to a shrine overgrown with palms, the entry archway framed with r
 
 “Moa teaches us that secrets hide the truth.”
 
-Guardian attempted to walk on the roof leading into the shrine but slipped and fell into a 10 ft pit filled with acidic slime. Bulgar helped Guardian out and Guardian made another attempt to walk across the roof, this time succeeding and walking right up to the pedestal. Guardian notes a mosaic on the floor covered in moss which appears to depict a monkey. Trent enters on the inverse side of the shrine and after removing the moss on the stone read:
+Guardian attempted to walk on the roof leading into the shrine but slipped and fell into a 10 ft pit filled with acidic slime. Bolgar helped Guardian out and Guardian made another attempt to walk across the roof, this time succeeding and walking right up to the pedestal. Guardian notes a mosaic on the floor covered in moss which appears to depict a monkey. Trent enters on the inverse side of the shrine and after removing the moss on the stone read:
 
 “Death rewards a thief deceived. Truth comes from the serpent’s mouth.”
 
-Bulgar inspected the shrine walls uncovering a sliding door that opened to a side room containing a decapitated stone snake and a puzzle key lain on the floor nearby. Meanwhile Guardian investigated the pedestal observing a puzzle key with a snake on it. Guardian then continued to the other side room where they find Octopus stuck to another puzzle cube. It became clear then that there were 3 puzzle pieces, one being the real deal. Bulgar picked up the cube in their room. Guardian grabbed the cube in the other side room as well as Octopus. Trent snaffled the cube on the pedestal and is the first to exit the shrine only to find that the cube had disappeared.
+Bolgar inspected the shrine walls uncovering a sliding door that opened to a side room containing a decapitated stone snake and a puzzle key lain on the floor nearby. Meanwhile Guardian investigated the pedestal observing a puzzle key with a snake on it. Guardian then continued to the other side room where they find Octopus stuck to another puzzle cube. It became clear then that there were 3 puzzle pieces, one being the real deal. Bolgar picked up the cube in their room. Guardian grabbed the cube in the other side room as well as Octopus. Trent snaffled the cube on the pedestal and is the first to exit the shrine only to find that the cube had disappeared.
 
-Party members in the shrine made for the exit but Tundra was overpowered by a flurry of stone arrows. The party eventually met the challenge of getting all their members in the shrine out safely and find that Guardian’s cube was still in being, it is the real puzzle key. Guardian gave it to Bulgar for safe keeping and they all head to the outskirts of the shrine to meet up with Hank.
+Party members in the shrine made for the exit but Tundra was overpowered by a flurry of stone arrows. The party eventually met the challenge of getting all their members in the shrine out safely and find that Guardian’s cube was still in being, it is the real puzzle key. Guardian gave it to Bolgar for safe keeping and they all head to the outskirts of the shrine to meet up with Hank.
 Hank advised they had an encounter by a group that have 3 more cubes and a base in the palace. Armed with this information, the party decide to take a short rest before heading to another shrine under the cover of darkness. Guardian used this time to scout the surrounding area, identifying shrines and possible entry to Omu.
 
 At the next shrine, there were broken stone doors at the entrance. In the middle of the shrine is a giant statue of a snail. Trent reads the plaque to this shrine:
@@ -33,7 +33,7 @@ At the next shrine, there were broken stone doors at the entrance. In the middle
 
 Guardian investigated the shrine discovering the puzzle key to be missing. Guardian then took Unk’s key from the pedestal and leaves.
 
-The party reviewed their plan, taking a long rest back at camp before tackling the palace base. The next day came easily, and the party set out again, finding a secret tunnel entrance into the palace. They came to a large cavern filled with water – two row boats were docked on the shore. Bulgar goes to hop in one and the cavern is suddenly filled with the noise of a bell ringing – an unbeknownst trinket attached to the boat rang out, which Bulgar tears off the boat and discards in the water. The party divide themselves between the two boats – Guardian, Hank and Bulgar in one, Leopold, Tundra, Filth Bucket and Caitlin in the second, Izzurba comfortably in the water. They travel through the veins of the under-palace and come across a Hydra alerted by the bell on the rowboat earlier but use their array of talent and skill to lay waste to the monster.
+The party reviewed their plan, taking a long rest back at camp before tackling the palace base. The next day came easily, and the party set out again, finding a secret tunnel entrance into the palace. They came to a large cavern filled with water – two row boats were docked on the shore. Bolgar goes to hop in one and the cavern is suddenly filled with the noise of a bell ringing – an unbeknownst trinket attached to the boat rang out, which Bolgar tears off the boat and discards in the water. The party divide themselves between the two boats – Guardian, Hank and Bolgar in one, Leopold, Tundra, Filth Bucket and Caitlin in the second, Izzurba comfortably in the water. They travel through the veins of the under-palace and come across a Hydra alerted by the bell on the rowboat earlier but use their array of talent and skill to lay waste to the monster.
 
 How was that for a session? Is the party ready for the next one? Are they ready for Valindra? Only one way to find out - all aboard for the next round!
 
