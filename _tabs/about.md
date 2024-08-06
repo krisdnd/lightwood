@@ -15,9 +15,12 @@ In the heart of the uncharted jungles lies the ancient land of Chult. Here, beas
 
 ### Spelljammer: Adventures in Space
 
-But wait! Our journey doesn’t end here. A mysterious journal entry, discovered within the Tomb of the Nine Gods, hints at the legend of Sarah's Star, a haunted ship know as the Felljammer. Enter Spelljammer! Board a magical ship that defies gravity, allowing you to venture beyond the stars. With every new horizon, you’ll find secrets, waiting for the brave to discover them. Navigate through asteroid fields or bargain with spacefaring merchants. But as you embark on this grand voyage through the cosmic seas, remember the cosmos is a tapestry of intricate patterns, each thread woven by the hands of fate and the choices of intrepid souls like yours.
+But wait! Our journey doesn’t end here. A mysterious journal entry, discovered within the Tomb of the Nine Gods, hints at the legend of Sarah's Star, a haunted ship known as the Felljammer. Enter Spelljammer! Board a magical ship that defies gravity, allowing you to venture beyond the stars. With every new horizon, you’ll find secrets, waiting for the brave to discover them. Navigate through asteroid fields or bargain with spacefaring merchants. But as you embark on this grand voyage through the cosmic seas, remember the cosmos is a tapestry of intricate patterns, each thread woven by the hands of fate and the choices of intrepid souls like yours.
 
 
 ### Your Quest Awaits
 
 So gather your wits, assemble your crew, and set sail! Will you uncover forgotten gods, encounter prehistoric beasts, and unravel cosmic mysteries? The multiverse awaits your exploration. May the stars guide you, and may your adventures be as boundless as the universe itself.
+
+
+{% include gallery.html folder="images/Characters/bkgnd" %}
