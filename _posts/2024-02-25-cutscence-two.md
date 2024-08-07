@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Cutscence: Hank Exposition"
+title: "cutscene: Hank Exposition"
 author: Terry
 date: 2024-02-25 12:00:00 +1030
-categories: cutscence
-tags: Cutscence
+categories: cutscene
+tags: cutscene
 ---
 Aeons ago, long before many of the races you know of were born, my people existed in peace and knew of nothing beyond each other. We knew not words, not gods, not realms, not races, we only knew each other. We knew joy, we knew beauty, and we knew life, but not in the way you or I know these things by these words now, but in concepts beyond time, space, and the physical. We were minds, adrift in an infinite realm of nothing but thought.
 
