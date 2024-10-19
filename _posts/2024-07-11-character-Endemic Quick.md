@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Endemic Quick"
+title: "NPC - Endemic Quick"
 date: 2024-07-11 12:00:00 +1030
 categories: characters
 tags: endemic

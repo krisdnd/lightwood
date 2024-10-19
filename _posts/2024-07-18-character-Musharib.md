@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Musharib"
+title: "NPC - Musharib"
 date: 2024-07-18 12:00:00 +1030
 categories: characters
 tags: musharib

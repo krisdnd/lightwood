@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fred"
+title: "Retired - Fred"
 date: 2023-05-21 12:00:00 +1030
 categories: characters
 tags: fred

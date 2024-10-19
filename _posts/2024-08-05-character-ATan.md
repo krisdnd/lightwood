@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A'Tan"
+title: "NPC - A'Tan"
 date: 2024-08-05 12:00:00 +1030
 categories: characters
 tags: atan
