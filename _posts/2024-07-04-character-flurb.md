@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dread Pirate Captain Flurb"
-date: 2024-07-4 12:00:00 +1030
+date: 2024-07-04 12:00:00 +1030
 categories: NPCs
 tags: flurb
 ---

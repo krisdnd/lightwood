@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adjunct Professor Garistold Pavheydea Hyperion XVI Esq"
-date: 2024-08-05 12:00:00 +1030
+date: 2024-10-30 12:00:00 +1030
 categories: NPCs
 tags: garold
 ---
