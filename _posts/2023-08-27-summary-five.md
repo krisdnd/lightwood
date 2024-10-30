@@ -2,7 +2,7 @@
 layout: post
 title: "The pirate cove takeover and encounter on the Dark CroWo"
 date: 2023-08-27 12:00:00 +1030
-categories: summaries
+categories: Summaries
 tags: musharib nera smoke guardian caitlin saltine aurora sheila hrakamar
 ---
 ### Previously on T-TOA…

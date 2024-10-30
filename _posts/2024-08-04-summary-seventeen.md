@@ -2,7 +2,7 @@
 layout: post
 title: "The Mirror Prison and the Lost Limb"
 date: 2024-08-04 12:00:00 +1030
-categories: summaries
+categories: Summaries
 tags: minotaur caitlin skeleton aurora bolgar mirror filthbucket izzurba blackfire khomara mosquito queen lukanu gargoyle pox zaal tundra leopold stalker invisible valindra mask unkh robe maze sphere crown demon limb
 ---
 ### Previously on T-TOA…

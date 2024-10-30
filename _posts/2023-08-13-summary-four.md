@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome Crackers and Bork"
 date: 2023-08-13 12:00:00 +1030
-categories: summaries
+categories: Summaries
 tags: guardian thonic ogre aurora nera bork crackers hrakamar hank dragon ubtao caitlin crowo morningstar
 ---
 ### Previously on T-TOA…

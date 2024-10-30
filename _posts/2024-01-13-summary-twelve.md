@@ -2,7 +2,7 @@
 layout: post
 title: "Adjunct Professor Garold and the amphitheatre encounter"
 date: 2024-01-13 12:00:00 +1030
-categories: summaries
+categories: Summaries
 tags: Garold smoke musharib dumathoin hrakamar hank izzurba bear obolaka tundra guardian timothy cube wizard caitlin filthbucket trex
 ---
 ### Previously on T-TOA…

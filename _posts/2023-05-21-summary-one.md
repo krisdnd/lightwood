@@ -2,7 +2,7 @@
 layout: post
 title: "Arrival at Hrakamar and the demise of Frank in the dwarven ruins"
 date: 2023-05-21 12:00:00 +1030
-categories: summaries
+categories: Summaries
 tags: smoke hrakamar frank musharib vault newt hellhound
 ---
 ### Previously on T-TOA…

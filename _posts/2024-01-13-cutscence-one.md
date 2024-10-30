@@ -3,7 +3,7 @@ layout: post
 title: "cutscene: Toll of the Dead"
 author: Terry
 date: 2024-01-13 12:00:00 +1030
-categories: cutscene
+categories: Cutscenes
 tags: cutscene
 ---
 A magical hum emanated from the runes in the Lightwood camp, and a blue shimmering portal split the air with a thrumming sound. Trent, Fred, Neera, Smoke and others turned to see strangers stumble through, dressed not just for the warm climate, but to reveal as much flesh as tantalisingly possible.

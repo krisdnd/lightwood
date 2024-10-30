@@ -2,7 +2,7 @@
 layout: post
 title: "Caitlin Frost"
 date: 2024-07-11 12:00:00 +1030
-categories: characters
+categories: Characters
 tags: caitlin
 ---
 ### Background

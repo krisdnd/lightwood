@@ -2,7 +2,7 @@
 layout: post
 title: "Meet Izzurba, a valuable ally against the shrine of Shagambi"
 date: 2023-10-15 12:00:00 +1030
-categories: summaries
+categories: Summaries
 tags: Izzurba shagambi shrine rasnsi guardian froghemoth jaculi kubazan tundra key
 ---
 ### Previously on T-TOA…

@@ -2,7 +2,7 @@
 layout: post
 title: "Nera"
 date: 2023-05-21 12:00:00 +1030
-categories: characters
+categories: Characters
 tags: nera
 ---
 ### Background

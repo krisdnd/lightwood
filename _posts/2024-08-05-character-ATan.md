@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "NPC - A'Tan"
+title: "A'Tan"
 date: 2024-08-05 12:00:00 +1030
-categories: characters
+categories: NPCs
 tags: atan
 ---
 ### Background

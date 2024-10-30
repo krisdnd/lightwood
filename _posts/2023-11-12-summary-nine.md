@@ -2,7 +2,7 @@
 layout: post
 title: "Portal to camp with Octopus and Bulgar, and the encounter with Hydra in the under-palace"
 date: 2023-11-12 12:00:00 +1030
-categories: summaries
+categories: Summaries
 tags: izzurba trent hank camp portal octopus tundra bolgar crowo zombies shrine eagle guardian moa slime pedestal monkey key palace omu unkh snail boat bell hydra leopold caitlin filth-bucket 
 ---
 ### Previously on T-TOA…

@@ -2,7 +2,7 @@
 layout: post
 title: "Numbers"
 date: 2024-10-06 12:00:00 +1030
-categories: summaries
+categories: Summaries
 tags: zombies aurora skeleton izzurba
 ---
 ### Previously on T-TOA…

@@ -2,7 +2,7 @@
 layout: post
 title: "Hank, sibling of Frank, and the book of bones"
 date: 2023-06-25 12:00:00 +1030
-categories: summaries
+categories: Summaries
 tags: hank frank soulmonger caitlin musharib aurora dragon guardian minotaur hrakamar
 ---
 ### Previously on T-TOA…

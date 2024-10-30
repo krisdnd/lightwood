@@ -2,7 +2,7 @@
 layout: post
 title: "Defeating RasNsi in the Fane of the Night Serpent to the detriment of the soul"
 date: 2023-12-23 12:00:00 +1030
-categories: summaries
+categories: Summaries
 tags: statue guardian aurora aegis tundra leopold izzurba caitlin rasnsi dendar cube yuanti bolgar spellbook soul acererak froghemoth
 ---
 ### Previously on T-TOA…

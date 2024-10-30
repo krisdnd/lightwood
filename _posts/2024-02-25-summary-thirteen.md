@@ -2,7 +2,7 @@
 layout: post
 title: "The Amulets Whisper: Secrets of the Forsaken Tomb"
 date: 2024-02-25 12:00:00 +1030
-categories: summaries
+categories: Summaries
 tags: izzurba garold cube hank tundra gods unkh acererak mask child key bolgar aurora amulet tundra pond monkey obolaka statue trap tomb gargoyle child skeleton
 ---
 ### Previously on T-TOA…

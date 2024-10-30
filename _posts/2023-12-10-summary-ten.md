@@ -2,7 +2,7 @@
 layout: post
 title: "Entering the Fane of the Night Serpent and through to the hall with the golden snake statue"
 date: 2023-12-10 12:00:00 +1030
-categories: summaries
+categories: Summaries
 tags: serpent hydra yuanti izzurba tundra leopold caitlin guardian portal hank statue cathedral dendar
 ---
 ### Previously on T-TOA…

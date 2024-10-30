@@ -2,7 +2,7 @@
 layout: post
 title: "The Chamber of the Unseen Watcher"
 date: 2024-07-14 12:00:00 +1030
-categories: summaries
+categories: Summaries
 tags: Mould eyeballs tundra demon statue guardian caitlin bolgar demon filthbucket izzurba timothy leopold aurora crackers mirror font beholder belchorzh skeleton key papazotl napaka acererack minotaur unkh sarcophagus maze
 ---
 ### Previously on T-TOA…

@@ -2,7 +2,7 @@
 layout: post
 title: "Trent, Tundra and Leopold join the adventure to Ubtau"
 date: 2023-09-17 12:00:00 +1030
-categories: summaries
+categories: Summaries
 tags: aurora curly kert marrak durin harold henry charter guardian halruaa hrakamar musharib dumathoin shi tundra leopold otamar ubtau dragon valindra omu acererak soulmonger dracolich rasnsi chult undermountain dumathoin wizard key
 ---
 ### Previously on T-TOA…

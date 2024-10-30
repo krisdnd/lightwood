@@ -2,7 +2,7 @@
 layout: post
 title: "Leopold"
 date: 2023-09-17 12:00:00 +1030
-categories: characters
+categories: Characters
 tags: leopold
 ---
 ### Background

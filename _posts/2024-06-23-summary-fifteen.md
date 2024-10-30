@@ -2,7 +2,7 @@
 layout: post
 title: "Withers and the Flirtatious Golden Skull"
 date: 2024-06-23 12:00:00 +1030
-categories: summaries
+categories: Cummaries
 tags: guardian bork hank caitlin lucy moa aurora wongo tundra skeleton key izzurba bolgar swarm necromancer spellbook locks, skull amulet hithers khomara blackfire mould froghemoth candle kubazan obolaka god eyeballs
 ---
 ### Previously on T-TOA…

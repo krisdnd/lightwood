@@ -2,7 +2,7 @@
 layout: post
 title: "Back to the dwarven mines, to the cave of the red dragon"
 date: 2023-07-09 12:00:00 +1030
-categories: summaries
+categories: Summaries
 tags: specter guardian caitlin aurora smoke dragon hank bob fred nera
 ---
 ### Previously on T-TOA…

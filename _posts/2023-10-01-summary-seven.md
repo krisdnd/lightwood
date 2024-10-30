@@ -2,7 +2,7 @@
 layout: post
 title: "To Omu, the forbidden city and the first shrine of Kubazan"
 date: 2023-10-01 12:00:00 +1030
-categories: summaries
+categories: Summaries
 tags: lyra trent guardian tundra leopold crackers musharib hank omu acererak kubazan shagambi moa orvex froghemoth key
 ---
 ### Previously on T-TOA…
