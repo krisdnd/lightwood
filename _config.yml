@@ -14,7 +14,7 @@ timezone: Australia/Adelaide
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Tomb of Annihilation # the main title
+title: Lightwood # the main title
 
 tagline: DnD Campaign # it will display as the sub-title
 
@@ -73,7 +73,7 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://newbiedm.files.wordpress.com/2017/09/dnd_toa_frontisimage.jpg?w=684&h=684
+avatar: https://cdn.discordapp.com/attachments/1095182844814446663/1270561391459438716/YdTQED7.png?ex=6722e401&is=67219281&hm=83441466d837a1d9582f9bdbeadc375800ddeb722d45b8f2087463bc121f3108&
 
 # boolean type, the global switch for TOC in posts.
 toc: true
