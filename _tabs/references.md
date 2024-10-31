@@ -13,6 +13,9 @@ order: 3
 <a href="https://docs.google.com/document/d/1SRuJpft1Y7gynH3v6RHCuemqnNRYud_pJkue3m2eEg8/edit?tab=t.0#heading=h.5bk7zan3xig2" target="_blank">Spelljammer Abstract Ship Combat</a>
 
 
+<a href="https://docs.google.com/document/d/1bH0J5tokiM6kKl9NDiLE_XvnjysiUcvbrH9n57gOmXY/edit?tab=t.0" target="_blank">Blackrock Rumours, Day 001</a>
+
+
 ### Challenger Ship Leaderboard
 
 1. Empty Skull - Nautiloid (Ceremorph/creature version like BG3), Cpt. H'Catha Slim
