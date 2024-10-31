@@ -3,7 +3,7 @@ layout: post
 title: "Durin Rageface"
 date: 2024-10-30 12:00:00 +1030
 categories: NPCs
-tags: durin
+tags: durin rageface
 ---
 ### Background
 Lightwood Company, Founder and Veteran (joined 1479 DR)

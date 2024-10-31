@@ -3,7 +3,7 @@ layout: post
 title: "Frank"
 date: 2024-10-31 12:00:00 +1030
 categories: NPCs
-tags: frank
+tags: frank hank
 ---
 ### Background
 Illithid

@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fa-solid fa-wand-magic-sparkles
+icon: fa-solid fa-wand-sparkles
 order: 3
 ---
 
