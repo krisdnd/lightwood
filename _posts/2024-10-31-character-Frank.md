@@ -1,28 +1,33 @@
 ---
 layout: post
-title: "Flegha Rageface"
+title: "Frank"
 date: 2024-10-31 12:00:00 +1030
 categories: NPCs
-tags: flegha rageface
+tags: frank
 ---
 ### Background
-Lightwood Company, Founder and Veteran (joined 1479 DR, deceased 1491 DR)
+Illithid
 
-DOB: Midwinter, 1390 DR
+DOB: outside of time and space, (presumed) deceased 1496 DR
 
-(he/him)
-
-
-
-
-Slain by frost giants in 1491 DR, Flegha was one of the Rageface twins that originally helped Henry Lightwood found the company. A sorcerer who enjoyed sizzling his enemies with lightning magic, he was an identical twin of his brother Durin, and the two often used this for their own amusement.
-
-One the battlefield Flegha intentionally dressed identically to his brother Durin, as to confuse any potential enemies on which brother was which. Although he was a spellcaster he lead from the front of the field similar to Durin, his favoured tactic to rush up to clumps of enemies and lightning bolt them with a swipe of his spell focus - a two handed sword, also the twin of Durin’s blade.
-
-Since Flegha’s passing his sword hung on display in the Lightwood Company House. Since the house’s destruction Durin has carried the sword on his back, a daily reminder of the loss of his dear brother. With the company now settled aboard the ship, the sword has been hung on display in the mess hall.
+(they/them)
 
 
 
 
-Image Credit: unknown
-{% include gallery.html folder="images/Characters/Flegha" %}
+
+Like their sibling Hank, the illithid known as Frank was actually a timeless quasi-physical being of the mindscape that possessed their host body in order to survive the destruction of the crystal spheres around a hundred years ago.
+
+Shortly after the crash off the coast of Chult, Frank placed the remaining thralls of the vessels crew into a form of psionic stasis, wanting to prioritise the repair of the ship (and in particular the brig) in case they were unable to repair the thralls minds with psychic surgery. Unfortunately the growing thanergic energies of Acereraks’ machine, the soulmonger, triggered the early release of the thralls, who quickly escaped to wander Chult in a frenzied rampage.
+
+The Lightwood Company met Frank after defeating several attacking Pterafolk, who had captured Frank in the jungle of Chult and were planning to eat them. Frank had recently completed their repairs on the octopus ship that had brought them to Chult, although without a working helm they were unable to retrieve it from its sunken crash site, and they had been investigating the island having detected the presence of their sibling Hank.
+
+Frank, like Hank, used a perception filter to alter their image to those around them, and to appear as though they were speaking vocally rather than telepathically. Since their apparent death in Hrakhamar the remnants of the filter have slowly broken down in the minds of the Lightwood Company, and they are beginning to remember Frank distinctly scarier and more moist than the kind, soft spoken human they had assumed them to be.
+
+Sadly, Frank’s hold on their illithid host was partially disrupted by a combination of Acereraks’ thanergic energies and their own proximity to their sibling, Hank, who was broadcasting their physical pain psychically. This overwhelmed them with emotions and caused their risky behaviour above the lava flows of Hrakhamar, where they fell to their apparent death.
+
+
+
+
+Image Credit: Joel Stoffer (Agents of S.H.I.E.L.D.)
+{% include gallery.html folder="images/Characters/Frank" %}
