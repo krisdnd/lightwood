@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cutscene: Hank Exposition"
+title: "Hank Exposition"
 author: Terry
 date: 2024-02-25 12:00:00 +1030
 categories: Cutscenes

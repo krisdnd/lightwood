@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cutscene: Toll of the Dead"
+title: "Toll of the Dead"
 author: Terry
 date: 2024-01-13 12:00:00 +1030
 categories: Cutscenes
